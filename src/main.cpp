@@ -1,6 +1,6 @@
 /*----------------------------------------------------------------------------*/
 /*    Module:       main.cpp                                                  */
-/*    Author:       sagarpatel                                                */
+/*    Author:       sagarpatel + saurinpatel                                  */
 /*    Created:      Sat Mar 28 2020                                           */
 /*    Description:  Odometry For Precise Autonomous Motion                    */
 /*    Credits:      5225A For Pilons POS Document and QUEENS for odom Alg.    */
